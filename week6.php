@@ -30,3 +30,4 @@ list($p, $q) = findFractions1($N);
 
 echo "p = ". gmp2dec($p), "\n";
 echo "q = ". gmp2dec($q), "\n";
+
